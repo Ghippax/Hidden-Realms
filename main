@@ -7,7 +7,7 @@
  | |  | | | (_| | (_| |  __/ | | | | | \ \  __/ (_| | | | | | | \__ \
  |_|  |_|_|\__,_|\__,_|\___|_| |_| |_|  \_\___|\__,_|_|_| |_| |_|___/
                                                                       
-	Creado por Pablo Granizo Cuadrado             
+	Creado por Ghippax       
   
   Versión: Beta 1
   
@@ -9715,7 +9715,7 @@ void dibuja(){
 }
  
 void main(){ 
-  println("¡Bienvenido a Hidden Realms! Este es un juego RPG de combate por turnos. Si notas que el juego te va con lag, accede a la pestaña de opciones en el menú y baja la calidad de luz. Si encuentras algún bug, repórtalo a este correo: pablopgciesantoniomenarguez@gmail.com");
+  println("¡Bienvenido a Hidden Realms! Este es un juego RPG de combate por turnos. Si notas que el juego te va con lag, accede a la pestaña de opciones en el menú y baja la calidad de luz. Si encuentras algún bug, repórtalo a este correo: ");
   ArrowX = 118;
   ArrowY = 290;
   animate(dibuja);
